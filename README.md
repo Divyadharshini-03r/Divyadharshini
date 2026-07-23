@@ -17,7 +17,7 @@ Building intelligent applications that solve real-world problems through AI, Jav
 
 <img src="https://user-images.githubusercontent.com/74038190/216649433-0c7e7e6f-fd2d-49dd-b7d2-7b15b5b77a6f.gif" width="100%">
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me !
 
 🎓 Computer Science Engineering Student
 
